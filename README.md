@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajit0345/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/vishwajit0345/DSA/tree/master/0051-n-queens) |
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vishwajit0345/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

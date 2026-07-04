@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vishwajit0345/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/vishwajit0345/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/vishwajit0345/DSA/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajit0345/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vishwajit0345/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

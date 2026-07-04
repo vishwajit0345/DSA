@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/vishwajit0345/DSA/tree/master/0338-counting-bits) |
@@ -35,15 +36,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajit0345/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajit0345/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/vishwajit0345/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/vishwajit0345/DSA/tree/master/1143-longest-common-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

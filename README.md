@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/vishwajit0345/DSA/tree/master/1288-remove-covered-intervals) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/vishwajit0345/DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->

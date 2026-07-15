@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/vishwajit0345/DSA/tree/master/0338-counting-bits) |
+| [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0509-fibonacci-number](https://github.com/vishwajit0345/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/vishwajit0345/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/vishwajit0345/DSA/tree/master/0051-n-queens) |
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
+| [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1288-remove-covered-intervals](https://github.com/vishwajit0345/DSA/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
 | [1288-remove-covered-intervals](https://github.com/vishwajit0345/DSA/tree/master/1288-remove-covered-intervals) |
 ## Database
 |  |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/vishwajit0345/DSA/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/vishwajit0345/DSA/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/vishwajit0345/DSA/tree/master/0184-department-highest-salary) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->

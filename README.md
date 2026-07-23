@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
 | [1288-remove-covered-intervals](https://github.com/vishwajit0345/DSA/tree/master/1288-remove-covered-intervals) |
+| [2285-maximum-total-importance-of-roads](https://github.com/vishwajit0345/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Database
 |  |
 | ------- |
@@ -104,4 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vishwajit0345/DSA/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/vishwajit0345/DSA/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/vishwajit0345/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+## Greedy
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/vishwajit0345/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/vishwajit0345/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->

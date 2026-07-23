@@ -103,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vishwajit0345/DSA/tree/master/0547-number-of-provinces) |
+| [1791-find-center-of-star-graph](https://github.com/vishwajit0345/DSA/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

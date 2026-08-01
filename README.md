@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/vishwajit0345/DSA/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vishwajit0345/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/vishwajit0345/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vishwajit0345/DSA/tree/master/0509-fibonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vishwajit0345/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishwajit0345/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vishwajit0345/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vishwajit0345/DSA/tree/master/0051-n-queens) |
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1288-remove-covered-intervals](https://github.com/vishwajit0345/DSA/tree/master/1288-remove-covered-intervals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vishwajit0345/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/vishwajit0345/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

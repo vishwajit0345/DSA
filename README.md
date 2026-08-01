@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajit0345/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/vishwajit0345/DSA/tree/master/0051-n-queens) |
+| [0128-longest-consecutive-sequence](https://github.com/vishwajit0345/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vishwajit0345/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/vishwajit0345/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vishwajit0345/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vishwajit0345/DSA/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/vishwajit0345/DSA/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vishwajit0345/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vishwajit0345/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vishwajit0345/DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/vishwajit0345/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/vishwajit0345/DSA/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/vishwajit0345/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/vishwajit0345/DSA/tree/master/0213-house-robber-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vishwajit0345/DSA/tree/master/0354-russian-doll-envelopes) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vishwajit0345/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/vishwajit0345/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vishwajit0345/DSA/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/vishwajit0345/DSA/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |

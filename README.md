@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vishwajit0345/DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vishwajit0345/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vishwajit0345/DSA/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishwajit0345/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1288-remove-covered-intervals](https://github.com/vishwajit0345/DSA/tree/master/1288-remove-covered-intervals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vishwajit0345/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vishwajit0345/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
@@ -143,4 +145,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/vishwajit0345/DSA/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/vishwajit0345/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vishwajit0345/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/vishwajit0345/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

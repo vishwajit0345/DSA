@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/vishwajit0345/DSA/tree/master/0038-count-and-say) |
 | [0516-longest-palindromic-subsequence](https://github.com/vishwajit0345/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/vishwajit0345/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
